@@ -1,0 +1,20 @@
+{
+  "name": "03_bases-de-node",
+  "version": "1.0.0",
+  "description": "Esta es un aplicación de linea de comandos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Aprendiendo",
+    "NodeJS"
+  ],
+  "author": "Mario Barbero",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^15.3.1"
+  },
+  "devDependencies": {}
+}
